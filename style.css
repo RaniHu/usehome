@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*background-color: #F2F2F2;*/
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+#wrapper {
+    min-width: 1350px;
+    height: 2280px;
+    /*width:1350px;*/
+    /*height: 3580px;*/
+}
+
+/*头部*/
+.header {
+    width: 100%;
+    height: 27%;
+    background: url("img/HomePage/1.jpg") no-repeat;
+}
+
+/*头部导航*/
+.header .nav {
+    height: 21%;
+    /*background-color: rgba(0,0,0,0.7);*/
+    background-color: #4c4944;
+}
+
+.nav .logo {
+    text-align: center;
+
+}
+.nav .logo img{
+    margin-top: 15px;
+}
+
+.nav-bar{
+}
+/*文字logo*/
+.nav-bar img {
+    height: 50px;
+    width: 100px;
+    display: block;
+    float: left;
+    margin-left: 180px;
+
+}
+
+@font-face {
+    font-family: 'nav'; /*这里是说明调用来的字体名字*/
+    src: url('img/FontFamily/nav.ttf'); /*这里是字体文件路径*/
+
+}
+
+
+/*主导航栏*/
+#nav-main {
+    float: left;
+    margin-top: 18px;
+    margin-left: 80px;
+}
+
+.nav-bar #nav-main li {
+    float: left;
+    display: block;
+    width: 96px;
+    height: 33px;
+    border-bottom: 1px solid #cfcecd;
+    margin: 0 18px;
+    font-family: 'nav';
+}
+
+#nav-main li a {
+    font-size: 23px;
+    color: #f3f1f1;
+}
+
+/*搜索框*/
+.nav input {
+    float: left;
+    width: 150px;
+    height: 22px;
+    border-radius: 8px;
+    border: 1px solid #cfcecd;
+    background-color: #4c4944;
+    margin-top: 22px;
+    margin-left: 65px;
+}
+/*搜索按钮*/
+.nav .search-btn{
+    float: left;
+    margin-top: 15px;
+    margin-left: 8px;
+    /* width:35px;
+     height: 35px;*/
+}
+/*登陆按钮*/
+.nav .login{
+    float: left;
+    margin-top: 15px;
+    margin-left: 8px;
+}
+/*用户位置*/
+.header .user-position {
+    padding-left: 10px;
+    display: block;
+    height: 4.5%;
+    border-bottom: 1px solid black;
+    font-size: 22px;
+}
+
+.header .user-position a {
+    color: black;
+}
+
+/*轮播图*/
+.header .slide{
+    width: 80%;
+    height: 78px;
+    margin: 30px auto;
+    text-align: center;
+    /*padding-left: 110px;*/
+    padding-top: 70px;
+    font-size: 100px;
+
+    color: #fffefe;
+}
+.slide .slide-btn1{
+    float: left;
+    padding-top: 30px;
+    cursor: pointer;
+
+}
+.slide .slide-btn2{
+    float: right;
+    padding-top: 30px;
+    cursor: pointer;
+
+}
+
+
+/*中间主要内容*/
+.main {
+    width: 100%;
+    height: 65%;
+}
+/*每日精选*/
+.main .select-day{
+    height: 760px;
+    text-align: center;
+}
+.main .select-day .title{
+    height: 200px;
+    margin-top: 30px;
+}
+/*每日精选左侧*/
+.select-day .left{
+    float: left;
+    width: 518px;
+    height: 525px;
+    margin-left: 70px;
+}
+
+.left img .left-top{
+    height: 256px;
+}
+.left img .left-bottom{
+    text-align: left;
+}
+/*每日精选右侧*/
+.select-day .right{
+    float: left;
+    width: 625px;
+    height: 505px;
+    border: 3px solid black;
+    border-left: 2px solid black;
+    margin-top: 2px;
+    margin-left: 60px;
+    overflow: hidden;
+}
+.select-day .right .right-left{
+    float: left;
+    width: 210px;
+    height: 100%;
+}
+/*好物分享*/
+.main .share{
+    text-align: center;
+    margin-top: 10px;
+}
+.share .detail-item{
+    text-align: center;
+    width: 100%;
+    height: 518px;
+    border-bottom: 1px solid black;
+    margin-top: 10px;
+    margin-left: 95px;
+}
+.share .detail-item li{
+    display: block;
+    float: left;
+    height: 450px;
+    margin: 0 32px;
+}
+.detail-item .item-top{
+    height: 396px;
+}
+.detail-item .go-btn{
+
+}
+
+/*尾部*/
+.footer {
+    width: 100%;
+    height: 8%;
+    background-color: black;
+    opacity: 0.88;
+}
