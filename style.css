@@ -257,52 +257,54 @@ li {
 /*尾部*/
 .footer {
     width: 100%;
-    height: 8%;
+    height: 200px;
     background-color: black;
     opacity: 0.88;
 
 }
 .footer .foot-content{
-    width: 70%;
+    width: 100%;
     height: 100%;
     margin: 0 auto;
 }
 /*联系我们*/
 .foot-content .contact{
     float: left;
-    width: 60%;
+    width: 55%;
     height: 80%;
     padding-top: 15px;
+    margin-left: 150px;
 
 }
 /*底部logo*/
 .foot-content .contact .foot-logo{
     width: 100%;
-    height: 48px;
+    height: 52px;
 }
 /*底部标题*/
 .foot-content .contact .foot-title{
     display: block;
-    height: 25px;
-    border-bottom: 1px solid #d1d1d1;
-    margin-top: 5px;
-    font-size: 16px;
+    height: 30px;
+    border-bottom: 1px solid #e8e8e8;
+    color: #e8e8e8;
+    margin-top: 6px;
+    font-size: 18px;
     font-family: 'foot-title';
-    letter-spacing: 3px;
+    letter-spacing: 4px;
 }
 .foot-content .contact a{
     color:  #d1d1d1;
     font-family: 'foot-txt';
-    letter-spacing:2px;
+    letter-spacing:3px;
 }
 .contact>div {
     margin: 0 10px;
 }
 .contact ul {
-    margin-top: 5px;
+    margin-top: 10px;
 }
 .contact ul li a{
-    font-size: 13px;
+    font-size: 14px;
 
 }
 .contact li {
@@ -311,24 +313,25 @@ li {
 /*关于用家*/
 .about-home{
     float: left;
-    width:102px;
+    width:150px;
     text-align: center;
 
 }
 .about-home .foot-title{
-    width: 80px;
-    margin-left: 10px;
+    text-align: center;
+    width: 95px;
+    margin-left: 30px;
 }
 /*关注用家*/
 .notice-home{
     float: left;
-    width: 102px;
+    width: 150px;
     text-align: center;
 
 }
 .notice-home .foot-title{
-    width: 80px;
-    margin-left: 6px;
+    width: 95px;
+    margin-left: 26px;
 }
 .notice-home ul{
     padding-right: 8px;
@@ -336,12 +339,15 @@ li {
 /*联系用家*/
 .contact-home{
     float: left;
-    width: 160px;
+    width: 200px;
     text-align: center;
-
+}
+.contact-home .foot-logo{
+    text-align: left;
+    margin-left: 35px;
 }
 .contact-home .foot-title{
-    width: 85px;
+    width: 93px;
     margin-left: 20px;
 }
 .contact-home li{
@@ -351,12 +357,16 @@ li {
 /*移动客户端*/
 .app-home{
     float: left;
-    width: 120px;
+    width: 150px;
     text-align: center;
 
 }
+.app-home .foot-logo{
+    text-align:left;
+    margin-left: 30px;
+}
 .app-home .foot-title{
-    width: 100px;
+    width: 115px;
     margin-left: 8px;
 }
 .app-home li{
@@ -369,8 +379,9 @@ li {
 .two-code{
     float: left;
     height: 100%;
+    margin-left: 20px;
 }
 .two-code img{
     float: left;
-    margin: 30px 15px;
+    margin: 50px 15px;
 }
