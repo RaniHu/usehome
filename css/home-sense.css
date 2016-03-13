@@ -1,0 +1,367 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*background-color: #F2F2F2;*/
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+#wrapper {
+    min-width: 1350px;
+    height: 3400px;
+
+}
+
+/*头部*/
+.header {
+    width: 100%;
+    height: 18%;
+    /*background: url("img/HomePage/1.jpg") no-repeat;*/
+}
+.header .bg-img{
+    position: absolute;
+    z-index: -1;
+}
+
+/*头部导航*/
+.header .nav {
+    position: relative;
+    height: 24%;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.nav .logo {
+    text-align: center;
+
+
+}
+.nav .logo img{
+    margin-top: 15px;
+}
+
+.nav-bar{
+}
+/*文字logo*/
+.nav-bar img {
+    height: 50px;
+    width: 100px;
+    display: block;
+    float: left;
+    margin-left: 180px;
+
+}
+
+@font-face {
+    font-family: 'nav'; /*这里是说明调用来的字体名字*/
+    src: url('../img/FontFamily/nav.ttf'); /*这里是字体文件路径*/
+}
+@font-face {
+    font-family: 'foot-title'; /*这里是说明调用来的字体名字*/
+    src: url('../img/FontFamily/foot-title.otf'); /*这里是字体文件路径*/
+}
+@font-face {
+    font-family: 'foot-txt'; /*这里是说明调用来的字体名字*/
+    src: url('../img/FontFamily/nav.ttf'); /*这里是字体文件路径*/
+}
+
+
+
+/*主导航栏*/
+#nav-main {
+    float: left;
+    margin-top: 18px;
+    margin-left: 80px;
+}
+
+.nav-bar #nav-main li {
+    float: left;
+    display: block;
+    width: 96px;
+    height: 33px;
+    border-bottom: 1px solid #cfcecd;
+    margin: 0 18px;
+    font-family: 'nav';
+}
+
+#nav-main li a {
+    font-size: 23px;
+    color: #f3f1f1;
+}
+
+/*搜索框*/
+.nav input {
+    float: left;
+    width: 150px;
+    height: 22px;
+    border-radius: 8px;
+    border: 1px solid #cfcecd;
+    background:transparent;
+    margin-top: 22px;
+    margin-left: 65px;
+}
+/*搜索按钮*/
+.nav .search-btn{
+    float: left;
+    margin-top: 15px;
+    margin-left: 8px;
+    /* width:35px;
+     height: 35px;*/
+}
+/*登陆按钮*/
+.nav .login{
+    float: left;
+    margin-top: 15px;
+    margin-left: 8px;
+}
+/*用户位置*/
+.header .user-position {
+    position: relative;
+    padding-left: 10px;
+    display: block;
+    height: 28px;
+    border-bottom: 1px solid black;
+    font-size: 22px;
+}
+
+.header .user-position a {
+    color: black;
+    line-height: 28px;
+}
+
+/*轮播图*/
+.header .slide{
+    position: relative;
+    width: 80%;
+    height: 270px;
+    margin: 30px auto;
+    text-align: center;
+    /*padding-left: 110px;*/
+    padding-top: 70px;
+    font-size: 100px;
+
+    color: #fffefe;
+}
+.slide .slide-btn1{
+    float: left;
+    padding-top: 30px;
+    cursor: pointer;
+
+}
+.slide .slide-btn2{
+    float: right;
+    padding-top: 30px;
+    cursor: pointer;
+
+}
+.header .slide-circle-btn{
+    position: relative;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    margin-left: 47%;
+}
+.header .slide-circle-btn>div{
+    float: left;
+    width: 12px;
+    height: 12px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+}
+#slide-btn-on{
+    background-color: white;
+}
+
+
+
+/*中间主要内容*/
+.main {
+    width: 100%;
+    height: 78%;
+
+}
+.main .title{
+    position: relative;
+    text-align: center;
+    height: 160px;
+    margin-left: 50px;
+}
+.main .title .title-lis{
+    float: left;
+    width: 327px;
+    height: 157px;
+    border: 4px solid #adafaf;
+    margin: -40px 40px;
+}
+.main .title .title-lis .trans{
+    width: 327px;
+    height: 40px;
+}
+.main .title a{
+    display: block;
+    float: left;
+    width: 327px;
+    height: 117px;
+
+}
+.main-content .content-left{
+    float: left;
+    width: 685px;
+    margin-top: 35px;
+    margin-left:35px;
+}
+.main-content .content-left img{
+    margin: 5px auto;
+}
+.main-content .content-right{
+    float: left;
+    width: 630px;
+    margin-top: 22px;
+}
+.main-content .content-right img{
+    margin: 14px auto;
+}
+
+
+
+/*尾部*/
+.footer {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    opacity: 0.88;
+
+}
+.footer .foot-content{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+/*联系我们*/
+.foot-content .contact{
+    float: left;
+    width: 55%;
+    height: 80%;
+    padding-top: 15px;
+    margin-left: 150px;
+
+}
+/*底部logo*/
+.foot-content .contact .foot-logo{
+    width: 100%;
+    height: 52px;
+}
+/*底部标题*/
+.foot-content .contact .foot-title{
+    display: block;
+    height: 30px;
+    border-bottom: 1px solid #e8e8e8;
+    color: #e8e8e8;
+    margin-top: 6px;
+    font-size: 18px;
+    font-family: 'foot-title';
+    letter-spacing: 4px;
+}
+.foot-content .contact a{
+    color:  #d1d1d1;
+    font-family: 'foot-txt';
+    letter-spacing:3px;
+}
+.contact>div {
+    margin: 0 10px;
+}
+.contact ul {
+    margin-top: 10px;
+}
+.contact ul li a{
+    font-size: 14px;
+
+}
+.contact li {
+    margin: 3px auto;
+}
+/*关于用家*/
+.about-home{
+    float: left;
+    width:150px;
+    text-align: center;
+
+}
+.about-home .foot-title{
+    text-align: center;
+    width: 95px;
+    margin-left: 30px;
+}
+/*关注用家*/
+.notice-home{
+    float: left;
+    width: 150px;
+    text-align: center;
+
+}
+.notice-home .foot-title{
+    width: 95px;
+    margin-left: 26px;
+}
+.notice-home ul{
+    padding-right: 8px;
+}
+/*联系用家*/
+.contact-home{
+    float: left;
+    width: 200px;
+    text-align: center;
+}
+.contact-home .foot-logo{
+    text-align: left;
+    margin-left: 35px;
+}
+.contact-home .foot-title{
+    width: 93px;
+    margin-left: 20px;
+}
+.contact-home li{
+    text-align: left;
+    margin-left: 18px;
+}
+/*移动客户端*/
+.app-home{
+    float: left;
+    width: 150px;
+    text-align: center;
+
+}
+.app-home .foot-logo{
+    text-align:left;
+    margin-left: 30px;
+}
+.app-home .foot-title{
+    width: 115px;
+    margin-left: 8px;
+}
+.app-home li{
+    text-align: left;
+    margin-left: 10px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+/*二维码*/
+.two-code{
+    float: left;
+    height: 100%;
+    margin-left: 20px;
+}
+.two-code img{
+    float: left;
+    margin: 50px 15px;
+}
