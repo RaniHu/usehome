@@ -127,6 +127,8 @@ li {
     height: 28px;
     border-bottom: 1px solid black;
     font-size: 22px;
+    cursor: default;
+
 }
 
 .header .user-position a {

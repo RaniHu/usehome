@@ -2,18 +2,34 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="../css/friend-first.css">
+    <link rel="stylesheet" href="../css/home-sense-three-level.css">
     <script src="../js/jquery.js"></script>
     <script src="../js/event.js"></script>
-    <title>以物会友</title>
+    <title>生活居家</title>
+    <style type="text/css">
+        .header {
+            width: 100%;
+            height: 5%;
+        }
+        /*头部导航*/
+        .header .nav {
+            position: relative;
+            height: 90%;
+            background-color: rgba(0,0,0,0.7);
+        }
+        /*中间主要内容*/
+        .main {
+            width: 100%;
+            height: 91%;
+            margin-top: 40px;
+        }
+
+    </style>
 </head>
 <body>
 <div id="wrapper">
     <!-- 头部-->
     <div class="header">
-        <div class="bg-img">
-            <img src="../img/friend/bg.png">
-        </div>
         <!-- 头部导航栏-->
         <div class="nav">
             <!-- 头部logo-->
@@ -26,10 +42,10 @@
                 <a href="../index.html"><img src="../img/HomePage/logotxt.png"></a>
                 <!-- 主导航栏-->
                 <ul id="nav-main">
-                    <li><a href="life.html">生活灵感</a></li>
-                    <li><a href="home-sense.html">居家常识</a></li>
-                    <li><a href="friend-first.html">以物会友</a></li>
-                    <li><a href="country-first.html">异国风情</a></li>
+                    <li><a href="../html/life.html">生活灵感</a></li>
+                    <li><a href="../html/home-sense.html">居家常识</a></li>
+                    <li><a href="../html/friend-first.html">以物会友</a></li>
+                    <li><a href="../html/country-first.html">异国风情</a></li>
                 </ul>
             </div>
             <!-- 搜索框等-->
@@ -37,32 +53,38 @@
             <a href="#" class="search-btn"><img src="../img/HomePage/1.png"></a>
             <a href="#" class="login"><img src="../img/HomePage/2.png"></a>
         </div>
-        <!-- 用户位置-->
+        <!--用户位置-->
         <div class="user-position">
-            <p>您的位置 >> <a class="user-pos">用家</a><a class="user-pos"> >以物会友</a></p>
+            <p>您的位置 >>
+                <a href="#" class="user-pos">用家</a>
+                <a href="#" class="user-pos"> >居家常识</a>
+                <a href="#" class="user-pos"> >生活居家</a>
+            </p>
         </div>
     </div>
 
     <!-- 中间-->
     <div class="main">
-        <div class="title">
-            <!-- 国内热销-->
-            <a href="friend-first.html"><img src="../img/friend/1.jpg"></a>
-            <!-- 国外热销-->
-            <a href="#"><img src="../img/friend/2.jpg"></a>
-        </div>
+        <!-- 中间主要内容-->
         <div class="main-content">
-            <div class="content-left">
-                <a href="#"><img src="../img/friend/9.jpg"></a>
-                <a href="#"><img src="../img/friend/10.jpg"></a>
-                <a href="#"><img src="../img/friend/11.jpg"></a>
-            </div>
-            <div class="content-right">
-                <a href="#"><img src="../img/friend/12.jpg"></a>
-                <a href="#"><img src="../img/friend/13.jpg"></a>
-                <a href="#"><img src="../img/friend/14.jpg"></a>
-            </div>
+            <img src="../img/HomeSense/19.jpg">
+            <img src="../img/HomeSense/20.jpg">
+            <img src="../img/HomeSense/21.jpg">
+            <img src="../img/HomeSense/22.jpg">
         </div>
+        <!-- 翻页按钮-->
+        <div class="pg-box">
+            <span>
+                <a href="life-home-two.html"><img src="../img/country/23.jpg" class="page-btn"></a>
+            </span>
+            <a href="life-home.html" class="pg-number">1</a>
+            <a href="life-home-two.html"  class="pg-number">2</a>
+            <a href="#" id="page-number-on" class="pg-number">3</a>
+            <span>
+                <a href="#"> <img src="../img/country/24.jpg"  class="page-btn"></a>
+            </span>
+        </div>
+        <div class="underline"></div>
     </div>
 
     <!-- 尾部-->

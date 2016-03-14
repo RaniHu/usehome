@@ -24,17 +24,18 @@ li {
 /*头部*/
 .header {
     width: 100%;
-    height: 19%;
+    height: 21%;
     /*background: url("img/HomePage/1.jpg") no-repeat;*/
 }
 .header .bg-img{
     position: absolute;
+    z-index: -1;
 }
 
 /*头部导航*/
 .header .nav {
     position: relative;
-    height: 24%;
+    height: 21%;
     background-color: rgba(0,0,0,0.7);
 }
 
@@ -129,6 +130,8 @@ li {
     height: 28px;
     border-bottom: 1px solid black;
     font-size: 22px;
+    cursor: default;
+
 }
 
 .header .user-position a {
@@ -185,32 +188,56 @@ li {
 
 /*中间主要内容*/
 .main {
-    width: 100%;
-    height: 78%;
-}
-.main .title{
-    text-align: center;
-    margin-top: 5px;
-}
-.main-content .content-left{
-    float: left;
-    width: 585px;
-    margin-top: 25px;
-    margin-left:105px;
-}
-.main-content .content-left img{
-    margin: 13px auto;
-}
-.main-content .content-right{
-    float: left;
-    width: 530px;
-    margin-top: 30px;
-    margin-left: 40px;
-}
-.main-content .content-right img{
-    margin: 10px auto;
-}
+     width: 100%;
+     height: 77%;
+     margin-top: 10px;
 
+ }
+
+.main .main-content {
+    text-align: center;
+
+}
+.main .main-content img{
+    margin: -2px auto;
+}
+.main .underline{
+    margin-top: -15px;
+    margin-left: 150px;
+    width: 81%;
+    border-bottom: 1px solid black;
+}
+/*翻页按钮*/
+.main .pg-box{
+    width: 250px;
+    height: 50px;
+    margin: 15px auto;
+}
+.main .pg-box span{
+    float: left;
+    display: block;
+    width: 40px;
+    height: 50px;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+}
+.main  .pg-box  .pg-number{
+    float: left;
+    display: block;
+    width: 23px;
+    height: 23px;
+    line-height: 23px;
+    text-align: center;
+    border: 1px solid black;
+    color: black;
+    margin: 5px 10px;
+}
+.pg-box  #page-number-on{
+    color: white;
+    background-color: black;
+}
 
 
 /*尾部*/

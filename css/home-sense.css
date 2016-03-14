@@ -17,14 +17,14 @@ li {
 
 #wrapper {
     min-width: 1350px;
-    height: 3400px;
+    height: 2850px;
 
 }
 
 /*头部*/
 .header {
     width: 100%;
-    height: 18%;
+    height: 21%;
     /*background: url("img/HomePage/1.jpg") no-repeat;*/
 }
 .header .bg-img{
@@ -35,7 +35,7 @@ li {
 /*头部导航*/
 .header .nav {
     position: relative;
-    height: 24%;
+    height: 22%;
     background-color: rgba(0,0,0,0.7);
 }
 
@@ -130,6 +130,8 @@ li {
     height: 28px;
     border-bottom: 1px solid black;
     font-size: 22px;
+    cursor: default;
+
 }
 
 .header .user-position a {
@@ -201,7 +203,7 @@ li {
     width: 327px;
     height: 157px;
     border: 4px solid #adafaf;
-    margin: -40px 40px;
+    margin: -30px 40px;
 }
 .main .title .title-lis .trans{
     width: 327px;
@@ -214,22 +216,18 @@ li {
     height: 117px;
 
 }
-.main-content .content-left{
-    float: left;
-    width: 685px;
-    margin-top: 35px;
-    margin-left:35px;
+.main .main-content {
+    text-align: center;
+
 }
-.main-content .content-left img{
-    margin: 5px auto;
+.main .main-content img{
+    margin: -2px auto;
 }
-.main-content .content-right{
-    float: left;
-    width: 630px;
-    margin-top: 22px;
-}
-.main-content .content-right img{
-    margin: 14px auto;
+.main .underline{
+    margin-top: 140px;
+    margin-left: 150px;
+    width: 81%;
+    border-bottom: 1px solid black;
 }
 
 

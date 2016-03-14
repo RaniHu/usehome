@@ -17,14 +17,14 @@ li {
 
 #wrapper {
     min-width: 1350px;
-    height: 2880px;
+    height: 2900px;
 
 }
 
 /*Í·²¿*/
 .header {
     width: 100%;
-    height: 19%;
+    height: 18%;
     /*background: url("img/HomePage/1.jpg") no-repeat;*/
 }
 .header .bg-img{
@@ -129,6 +129,8 @@ li {
     height: 28px;
     border-bottom: 1px solid black;
     font-size: 22px;
+    cursor: default;
+
 }
 
 .header .user-position a {
@@ -192,7 +194,7 @@ li {
 }
 .main .title{
     text-align: center;
-    margin-top: 15px;
+    margin-top: 35px;
 }
 .main-content .content-left{
     float: left;

@@ -130,6 +130,7 @@ li {
     height: 28px;
     border-bottom: 1px solid black;
     font-size: 22px;
+    cursor: default;
 }
 
 .header .user-position a {
@@ -273,7 +274,7 @@ li {
     width: 55%;
     height: 80%;
     padding-top: 15px;
-    margin-left: 150px;
+    margin-left: 130px;
 
 }
 /*µ×²¿logo*/
@@ -379,9 +380,8 @@ li {
 .two-code{
     float: left;
     height: 100%;
-    margin-left: 20px;
 }
 .two-code img{
     float: left;
-    margin: 50px 15px;
+    margin: 50px 10px;
 }
