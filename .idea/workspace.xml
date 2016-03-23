@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01dbbb47-45e1-4a05-bf21-2c8044ce1f21" name="默认的" comment="change img name&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bathroom-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bathroom-four.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bathroom-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bathroom-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/bathroom-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/bathroom-receive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bathroom-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bathroom-three.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bathroom-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bathroom-two.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-five.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-five.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-four.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/bedroom-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/bedroom-receive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-three.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-two.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-four.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/kitchen-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/kitchen-receive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-three.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-two-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-two-two.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-two.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/life-feel.html" afterPath="$PROJECT_DIR$/html/life-feel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/living-room-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/living-room-four.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/living-room-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/living-room-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/living-room-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/living-room-receive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/living-room-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/living-room-three.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/living-room-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/living-room-two.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/office-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/office-receive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/office-room-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/office-room-four.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/office-room-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/office-room-three.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/office-room-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/office-room-two.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/study-room-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/study-room-four.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/study-room-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/study-room-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/study-room-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/study-room-receive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/study-room-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/study-room-three.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/study-room-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/study-room-two.html" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\1.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/1.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\1.png" afterPath="$PROJECT_DIR$/img/HomeSense/1.png" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\10.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/10.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\11.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/11.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\12.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/12.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\13.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/13.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\14.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/14.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\15.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/15.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\16.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/16.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\17.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/17.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\18.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/18.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\19.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/19.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\2.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/2.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\2.png" afterPath="$PROJECT_DIR$/img/HomeSense/2.png" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\20.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/20.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\21.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/21.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\22.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/22.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\23.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/23.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\24.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/24.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\25.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/25.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\26.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/26.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\27.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/27.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\28.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/28.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\29.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/29.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\3.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/3.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\3.png" afterPath="$PROJECT_DIR$/img/HomeSense/3.png" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\30.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/30.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\31.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/31.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\32.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/32.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\33.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/33.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\34.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/34.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\35.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/35.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\36.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/36.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\37.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/37.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\38.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/38.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\39.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/39.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\4.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/4.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\4.png" afterPath="$PROJECT_DIR$/img/HomeSense/4.png" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\40.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/40.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\41.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/41.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\42.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/42.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\43.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/43.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\44.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/44.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\45.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/45.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\46.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/46.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\47.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/47.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\48.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/48.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\49.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/49.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\5.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/5.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\5.png" afterPath="$PROJECT_DIR$/img/HomeSense/5.png" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\50.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/50.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\51.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/51.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\52.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/52.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\53.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/53.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\54.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/54.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\55.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/55.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\56.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/56.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\57.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/57.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\58.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/58.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\59.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/59.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\6.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/6.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\6.png" afterPath="$PROJECT_DIR$/img/HomeSense/6.png" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\7.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/7.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\8.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/8.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\9.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/9.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\bg.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/bg.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\bg1.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/bg1.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\bg2.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/bg2.jpg" />
+      <change type="MOVED" beforePath="E:\usehome\img\LifeFeel\bg3.jpg" afterPath="$PROJECT_DIR$/img/HomeSense/bg3.jpg" />
+    </list>
+    <ignored path="usehome.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="usehome" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.3">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="life-feel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/life-feel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5180266">
+              <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-sense.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/home-sense.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.1">
+              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/html/home-sense.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usehome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usehome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usehome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usehome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usehome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usehome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usehome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01dbbb47-45e1-4a05-bf21-2c8044ce1f21" name="默认的" comment="" />
+      <created>1458722682366</created>
+      <option name="number" value="Default" />
+      <updated>1458722682366</updated>
+    </task>
+    <task id="LOCAL-00001" summary="change img name&#10;">
+      <created>1458722928824</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1458722928824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change img name&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="change img name&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.3">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/home-sense.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/life-feel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5180266">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
