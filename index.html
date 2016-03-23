@@ -5,14 +5,20 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="js/jquery.js"></script>
     <script src="js/event.js"></script>
+    <script src="js/perfect-animate-frame.js"></script>
     <title>用家首页</title>
 </head>
-<body>
+<body onContextMenu="return false">
     <div id="wrapper">
         <!-- 头部-->
         <div class="header">
-            <div class="bg-img">
-               <img src="img/HomePage/slide1.jpg">
+            <!-- 轮播背景图-->
+            <div id="bg-img">
+                <ul id="slide-img">
+                    <li><a><img src="img/HomePage/slide1.jpg" id="slide-on"></a></li>
+                    <!--<li><a><img src="img/HomePage/slide2.jpg" class="slide-hide" id="slide-two"></a></li>
+                    <li><a><img src="img/HomePage/slide3.jpg" class="slide-hide" id="slide-three"></a></li>-->
+                </ul>
             </div>
             <!-- 头部导航栏-->
             <div class="nav">
@@ -23,10 +29,10 @@
                 <!-- 导航-->
                 <div class="nav-bar">
                     <!-- 文字logo-->
-                       <a href="index.html"><img src="img/HomePage/logotxt.png"></a>
+                    <a href="index.html"><img src="img/HomePage/logotxt.png"></a>
                     <!-- 主导航栏-->
                     <ul id="nav-main">
-                        <li><a href="#">生活灵感</a></li>
+                        <li><a href="html/life-feel.html">生活灵感</a></li>
                         <li><a href="html/home-sense.html">居家常识</a></li>
                         <li><a href="html/friend-first.html">以物会友</a></li>
                         <li><a href="html/country-first.html">异国风情</a></li>
@@ -41,12 +47,13 @@
             <div class="user-position">
                 <p>您的位置 >> <a class="user-pos">用家</a></p>
             </div>
-             <!--轮播按钮-->
-            <div class="slide">
-                <a class="slide-btn1"><</a>
-                <a class="slide-btn2">></a>
+            <!--轮播方向按钮-->
+            <div id="slide-btn">
+                <a id="slide-btn1"><</a>
+                <a id="slide-btn2">></a>
             </div>
-            <div class="slide-circle-btn">
+            <!-- 轮播圆圈按钮-->
+            <div id="slide-circle-btn">
                 <div id="slide-btn-on"></div>
                 <div class="slide-circle"></div>
                 <div class="slide-circle"></div>

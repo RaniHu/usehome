@@ -17,38 +17,25 @@ li {
 
 #wrapper {
     min-width: 1350px;
-    height: 2280px;
-    /*width:1350px;*/
-    /*height: 3580px;*/
+    height: 2800px;
 }
 
 /*头部*/
 .header {
     width: 100%;
-    height: 27%;
+    height: 26%;
+    /*background: url("img/HomePage/1.jpg") no-repeat;*/
 }
-/*轮播背景图*/
-.header #bg-img{
+.header .bg-img{
     position: absolute;
-    width: 1350px;
-    height: 612px;
-}
-/*#bg-img #slide-img{
-    width: 4200px;
-    display: block;
-    left: 0;
-
-}*/
-#bg-img #slide-img li{
-    float: left;
+    z-index: -1;
 }
 
 /*头部导航*/
 .header .nav {
     position: relative;
-    height: 21%;
-    background: rgba(0,0,0,0.7);
-    /*background-color: #4c4944;*/
+    height: 18%;
+    background-color: rgba(0,0,0,0.7);
 }
 
 .nav .logo {
@@ -74,16 +61,17 @@ li {
 
 @font-face {
     font-family: 'nav'; /*这里是说明调用来的字体名字*/
-    src: url('img/FontFamily/nav.ttf'); /*这里是字体文件路径*/
+    src: url('../img/FontFamily/nav.ttf'); /*这里是字体文件路径*/
 }
 @font-face {
     font-family: 'foot-title'; /*这里是说明调用来的字体名字*/
-    src: url('img/FontFamily/foot-title.otf'); /*这里是字体文件路径*/
+    src: url('../img/FontFamily/foot-title.otf'); /*这里是字体文件路径*/
 }
 @font-face {
     font-family: 'foot-txt'; /*这里是说明调用来的字体名字*/
-    src: url('img/FontFamily/nav.ttf'); /*这里是字体文件路径*/
+    src: url('../img/FontFamily/nav.ttf'); /*这里是字体文件路径*/
 }
+
 
 
 /*主导航栏*/
@@ -115,7 +103,7 @@ li {
     height: 22px;
     border-radius: 8px;
     border: 1px solid #cfcecd;
-    background: transparent;
+    background:transparent;
     margin-top: 22px;
     margin-left: 65px;
 }
@@ -142,6 +130,7 @@ li {
     border-bottom: 1px solid black;
     font-size: 22px;
     cursor: default;
+
 }
 
 .header .user-position a {
@@ -149,8 +138,8 @@ li {
     line-height: 28px;
 }
 
-/*轮播图按钮*/
-.header #slide-btn{
+/*轮播图*/
+.header .slide{
     position: relative;
     width: 80%;
     height: 270px;
@@ -159,29 +148,29 @@ li {
     /*padding-left: 110px;*/
     padding-top: 70px;
     font-size: 100px;
+
     color: #fffefe;
 }
-#slide-btn #slide-btn1{
+.slide .slide-btn1{
     float: left;
     padding-top: 30px;
     cursor: pointer;
 
-
 }
-#slide-btn #slide-btn2{
+.slide .slide-btn2{
     float: right;
     padding-top: 30px;
     cursor: pointer;
 
 }
-.header #slide-circle-btn{
+.header .slide-circle-btn{
     position: relative;
     width: 100px;
     height: 20px;
     text-align: center;
     margin-left: 47%;
 }
-.header #slide-circle-btn>div{
+.header .slide-circle-btn>div{
     float: left;
     width: 12px;
     height: 12px;
@@ -199,72 +188,49 @@ li {
 /*中间主要内容*/
 .main {
     width: 100%;
-    height: 65%;
-}
-/*每日精选*/
-.main .select-day{
-    height: 760px;
+    height: 78%;
     text-align: center;
-}
-.main .select-day .title{
-    height: 200px;
-    margin-top: 30px;
-}
-/*每日精选左侧*/
-.select-day .left{
-    float: left;
-    width: 520px;
-    height: 525px;
-    margin-left: 70px;
-}
 
-.left img .left-top{
-    height: 256px;
 }
-.left img .left-bottom{
-    text-align: left;
+/*标题*/
+.main .title{
+    height: 290px;
+    margin-left: 260px;
+
 }
-/*每日精选右侧*/
-.select-day .right{
+.main .title .title-left{
     float: left;
-    width: 625px;
-    height: 505px;
-    border: 3px solid black;
-    border-left: 2px solid black;
-    margin-top: 2px;
-    margin-left: 60px;
-    overflow: hidden;
-}
-.select-day .right .right-left{
-    float: left;
-    width: 210px;
+    width: 460px;
     height: 100%;
+
 }
-/*好物分享*/
-.main .share{
-    text-align: center;
-    margin-top: 10px;
+.main .title .title-right{
+    float: left;
+    width: 460px;
+    height: 100%;
+
 }
-.share .detail-item{
-    text-align: center;
-    height: 500px;
-    border-bottom: 2px solid black;
-    margin-top: 25px;
-    /*margin-left: 95px;*/
-    padding-left: 85px;
-}
-.share .detail-item li{
+.main .title a{
     display: block;
     float: left;
-    height: 450px;
-    margin: 0 32px;
-}
-.detail-item .item-top{
-    height: 396px;
-}
-.detail-item .go-btn{
 
 }
+.main .main-content {
+    text-align: center;
+    margin-top: -30px;
+
+}
+.main .main-content a{
+    display: block;
+    margin: 40px auto;
+}
+.main .underline{
+    margin-top: 40px;
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+
+
 
 /*尾部*/
 .footer {
@@ -285,7 +251,7 @@ li {
     width: 55%;
     height: 80%;
     padding-top: 15px;
-    margin-left: 130px;
+    margin-left: 150px;
 
 }
 /*底部logo*/
@@ -391,8 +357,9 @@ li {
 .two-code{
     float: left;
     height: 100%;
+    margin-left: 20px;
 }
 .two-code img{
     float: left;
-    margin: 50px 10px;
+    margin: 50px 15px;
 }

@@ -2,18 +2,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="../css/home-sense.css">
+    <link rel="stylesheet" href="../css/home-sense-three-level.css">
     <script src="../js/jquery.js"></script>
     <script src="../js/event.js"></script>
-    <title>居家常识</title>
+    <title>母婴育儿</title>
+    <style type="text/css">
+        .header {
+            width: 100%;
+            height: 5%;
+        }
+        /*头部导航*/
+        .header .nav {
+            position: relative;
+            height: 90%;
+        }
+        /*中间主要内容*/
+        .main {
+            width: 100%;
+            height: 91%;
+            margin-top: 40px;
+        }
+
+    </style>
 </head>
 <body>
 <div id="wrapper">
     <!-- 头部-->
     <div class="header">
-        <div class="bg-img">
-            <img src="../img/HomeSense/bg.jpg">
-        </div>
         <!-- 头部导航栏-->
         <div class="nav">
             <!-- 头部logo-->
@@ -26,10 +41,10 @@
                 <a href="../index.html"><img src="../img/HomePage/logotxt.png"></a>
                 <!-- 主导航栏-->
                 <ul id="nav-main">
-                    <li><a href="life-feel.html">生活灵感</a></li>
-                    <li><a href="#">居家常识</a></li>
-                    <li><a href="friend-first.html">以物会友</a></li>
-                    <li><a href="country-first.html">异国风情</a></li>
+                    <li><a href="../html/life-feel.html">生活灵感</a></li>
+                    <li><a href="../html/home-sense.html">居家常识</a></li>
+                    <li><a href="../html/friend-first.html">以物会友</a></li>
+                    <li><a href="../html/country-first.html">异国风情</a></li>
                 </ul>
             </div>
             <!-- 搜索框等-->
@@ -37,43 +52,36 @@
             <a href="#" class="search-btn"><img src="../img/HomePage/1.png"></a>
             <a href="#" class="login"><img src="../img/HomePage/2.png"></a>
         </div>
+        <!-- 用户位置-->
         <div class="user-position">
             <p>您的位置 >>
                 <a href="../index.html" class="user-pos">用家</a>
                 <a href="../html/home-sense.html" class="user-pos"> >居家常识</a>
+                <a href="../ThreeLevelHtml/mom.html" class="user-pos"> >母婴育儿</a>
             </p>
         </div>
     </div>
 
     <!-- 中间-->
     <div class="main">
-        <div class="title">
-            <!-- 生活居家-->
-            <div class="title-lis">
-                <div class="trans"></div>
-                <a href="../ThreeLevelHtml/life-home.html"><img src="../img/HomeSense/1.jpg"></a>
-            </div>
-            <!-- 健康养生-->
-            <div class="title-lis">
-                <div class="trans"></div>
-                <a href="../ThreeLevelHtml/health.html"><img src="../img/HomeSense/2.jpg"></a>
-            </div>
-            <!-- 母婴育儿-->
-            <div class="title-lis">
-                <div class="trans"></div>
-                <a href="../ThreeLevelHtml/mom.html"><img src="../img/HomeSense/3.jpg"></a>
-            </div>
-
-        </div>
         <!-- 中间主要内容-->
         <div class="main-content">
-            <img src="../img/HomeSense/4.jpg">
-            <a href="../ThreeLevelHtml/home-sense-one.html"><img src="../img/HomeSense/5.jpg"></a>
-            <a href="../ThreeLevelHtml/home-sense-two.html"><img src="../img/HomeSense/6.jpg"></a>
-            <a href="../ThreeLevelHtml/home-sense-three.html"><img src="../img/HomeSense/7.jpg"></a>
-            <a href="../ThreeLevelHtml/home-sense-four.html"><img src="../img/HomeSense/8.jpg"></a>
-            <a href="../ThreeLevelHtml/home-sense-five.html"><img src="../img/HomeSense/9.jpg"></a>
-            <a href="../ThreeLevelHtml/home-sense-six.html"><img src="../img/HomeSense/10.jpg"></a>
+            <img src="../img/HomeSense/44.jpg">
+            <img src="../img/HomeSense/45.jpg">
+            <img src="../img/HomeSense/46.jpg">
+            <img src="../img/HomeSense/47.jpg">
+        </div>
+        <!-- 翻页按钮-->
+        <div class="pg-box">
+            <span>
+                <a href="mom-two.html"><img src="../img/country/23.jpg" class="page-btn"></a>
+            </span>
+            <a href="mom.html" class="pg-number">1</a>
+            <a href="mom-two.html"  class="pg-number">2</a>
+            <a href="#" id="page-number-on" class="pg-number">3</a>
+            <span>
+                <a href="#"> <img src="../img/country/24.jpg"  class="page-btn"></a>
+            </span>
         </div>
         <div class="underline"></div>
     </div>

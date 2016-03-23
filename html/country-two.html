@@ -6,39 +6,12 @@
     <script src="../js/jquery.js"></script>
     <script src="../js/event.js"></script>
     <title>异国风情</title>
-    <style type="text/css">
-        #wrapper {
-            min-width: 1350px;
-            height: 3340px;
-
-        }
-        /*地中海阳光*/
-        .main .middle-sea{
-            height: 530px;
-            text-align: center;
-            border-top: 1px solid black;
-            margin-top: 60px;
-        }
-        /*美式极简*/
-        .main .usa{
-            height: 675px;
-            text-align: center;
-            border-top: 1px solid black;
-            margin-top: 65px;
-        }
-        /*中式格调*/
-        .main .china{
-            height: 530px;
-            text-align: center;
-            border-top: 1px solid black;
-            margin-top: 55px;
-        }
-    </style>
 </head>
 <body>
 <div id="wrapper">
     <!-- 头部-->
     <div class="header">
+        <!-- 轮播背景-->
         <div class="bg-img">
             <img src="../img/country/1.png">
         </div>
@@ -54,7 +27,7 @@
                 <a href="../index.html"><img src="../img/HomePage/logotxt.png"></a>
                 <!-- 主导航栏-->
                 <ul id="nav-main">
-                    <li><a href="life.html">生活灵感</a></li>
+                    <li><a href="life-feel.html">生活灵感</a></li>
                     <li><a href="home-sense.html">居家常识</a></li>
                     <li><a href="friend-first.html">以物会友</a></li>
                     <li><a href="country-first.html">异国风情</a></li>
@@ -67,76 +40,49 @@
         </div>
         <!-- 用户位置-->
         <div class="user-position">
-            <p>您的位置 >> <a class="user-pos">用家</a><a class="user-pos"> >异国风情</a></p>
+            <p>您的位置 >>
+                <a href="../index.html" class="user-pos">用家</a>
+                <a href="country-first.html" class="user-pos"> >异国风情</a>
+            </p>
         </div>
-
     </div>
 
     <!-- 中间-->
     <div class="main">
-        <!-- 北欧情调-->
-        <div class="middle-sea">
-            <div class="title">
-                <img src="../img/country/29.jpg">
-            </div>
-            <!-- 左侧-->
-            <div class="left">
-                <img src="../img/country/11.jpg">
-            </div>
-            <!-- 右侧-->
-            <div class="right">
-                <img src="../img/country/25.jpg">
-            </div>
+        <!-- 地中海阳光-->
+        <div class="title">
+            <img src="../img/country/10.jpg"  class="title-bottom">
+            <a href="../ThreeLevelHtml/country-five.html"><img src="../img/country/14.jpg"></a>
+
         </div>
-        <!-- 韩式田园-->
-        <div class="usa">
-            <div class="title">
-                <img src="../img/country/30.jpg">
-            </div>
-            <div class="left">
-                <img src="../img/country/26.jpg">
-            </div>
-            <div class="right">
-                <img src="../img/country/13.jpg">
-            </div>
+        <!-- 美式极简-->
+        <div class="title">
+            <img src="../img/country/11.jpg"  class="title-bottom">
+            <a href="../ThreeLevelHtml/country-six.html"><img src="../img/country/15.jpg"></a>
+
         </div>
-        <!-- 东南亚-->
-        <div class="china">
-            <div class="title">
-                <img src="../img/country/31.jpg">
-            </div>
-            <div class="left">
-                <img src="../img/country/14.jpg">
-            </div>
-            <div class="right">
-                <img src="../img/country/27.jpg">
-            </div>
+        <!-- 中式格调-->
+        <div class="title">
+            <img src="../img/country/12.jpg">
+            <a href="../ThreeLevelHtml/country-seven.html"><img src="../img/country/16.jpg"></a>
         </div>
-        <!-- 西班牙-->
-        <div class="japan">
-            <div class="title">
-                <img src="../img/country/32.jpg">
-            </div>
-            <div class="left">
-                <img src="../img/country/28.jpg">
-            </div>
-            <div class="right">
-                <img src="../img/country/15.jpg">
-            </div>
+        <!-- 日式雅致-->
+        <div class="title">
+            <img src="../img/country/13.jpg">
+            <a href="../ThreeLevelHtml/country-eight.html"><img src="../img/country/17.jpg"></a>
         </div>
         <!-- 翻页按钮-->
         <div class="pg-box">
             <span>
-                <a href="country-first.html"> <img src="../img/country/23.jpg" class="page-btn"></a>
+                <a href="#"><img src="../img/country/23.jpg" class="page-btn"></a>
             </span>
-            <a href="../html/country-first.html" class="pg-number">1</a>
-            <a href="#"  id="page-number-on" class="pg-number">2</a>
+            <a href="country-first.html" class="pg-number">1</a>
+            <a href="#" id="page-number-on"  class="pg-number">2</a>
             <span>
-                <a href="#"><img src="../img/country/24.jpg"  class="page-btn"></a>
+                <a href="country-two.html"> <img src="../img/country/24.jpg"  class="page-btn"></a>
             </span>
         </div>
     </div>
-
     <!-- 尾部-->
     <div class="footer">
         <div class="foot-content">
