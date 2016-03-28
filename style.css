@@ -16,6 +16,7 @@ li {
 }
 
 #wrapper {
+    position: relative;
     min-width: 1350px;
     height: 2280px;
     /*width:1350px;*/
@@ -24,28 +25,37 @@ li {
 
 /*Í·²¿*/
 .header {
+    position: relative;
     width: 100%;
     height: 27%;
+    top:0;
+    left: 0;
 }
-/*ÂÖ²¥±³¾°Í¼*/
-.header #bg-img{
-    position: absolute;
+/*ÂÖ²¥±³¾°Í¼Íâ²ã*/
+.header #slide-box{
+    position: relative;
     width: 1350px;
     height: 612px;
+    overflow: hidden;
 }
-/*#bg-img #slide-img{
+/*ÂÖ²¥±³¾°Í¼*/
+#slide-box #slide-img{
+    position: absolute;
     width: 4200px;
     display: block;
     left: 0;
 
-}*/
-#bg-img #slide-img li{
+}
+#slide-box #slide-img li{
     float: left;
 }
 
 /*Í·²¿µ¼º½*/
 .header .nav {
-    position: relative;
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
     height: 21%;
     background: rgba(0,0,0,0.7);
     /*background-color: #4c4944;*/
@@ -135,9 +145,12 @@ li {
 }
 /*ÓÃ»§Î»ÖÃ*/
 .header .user-position {
-    position: relative;
+    position: absolute;
+    left: 0;
+    top:130px;
     padding-left: 10px;
     display: block;
+    width: 1340px;
     height: 28px;
     border-bottom: 1px solid black;
     font-size: 22px;
@@ -151,13 +164,13 @@ li {
 
 /*ÂÖ²¥Í¼°´Å¥*/
 .header #slide-btn{
-    position: relative;
-    width: 80%;
+    display: block;
+    position: absolute;
+    width: 75%;
+    top:250px;
+    left: 170px;
     height: 270px;
-    margin: 30px auto;
     text-align: center;
-    /*padding-left: 110px;*/
-    padding-top: 70px;
     font-size: 100px;
     color: #fffefe;
 }
@@ -175,9 +188,10 @@ li {
 
 }
 .header #slide-circle-btn{
-    position: relative;
+    position: absolute;
     width: 100px;
     height: 20px;
+    bottom :50px;
     text-align: center;
     margin-left: 47%;
 }
@@ -253,17 +267,30 @@ li {
     /*margin-left: 95px;*/
     padding-left: 85px;
 }
+.share .detail-item img{
+    display: block;
+}
 .share .detail-item li{
+    position: relative;
     display: block;
     float: left;
-    height: 450px;
+    height: 430px;
     margin: 0 32px;
 }
 .detail-item .item-top{
     height: 396px;
 }
 .detail-item .go-btn{
-
+    z-index: 1;
+    position: absolute;
+    width: 144px;
+    height: 36px;
+    left: 50px;
+}
+.detail-item .go-border{
+    position: absolute;
+    visibility: hidden;
+    top:-8px;
 }
 
 /*Î²²¿*/
