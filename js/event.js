@@ -34,8 +34,16 @@
         $("#slide-circle-btn li").first().addClass("circle-btn-on");   //给第一个圆圈按钮添加类名
         var first_img = $("#slide-img li").first().clone();            //将第一张轮播图在最后克隆
         $("#slide-img").append(first_img);
-        var circle_btn = $("#slide-circle-btn li");
         var len = $("#slide-img li").length; //获取li标签的长度
+
+        //鼠标滑动到当前圆圈按钮，相应轮播图出现
+        $("#slide-circle-btn li").hover(function () {
+            var index = $(this).index();     //获取当前元素的索引值
+            $("#slide-img").animate({left: -index * 1350}, 260);
+            $(this).addClass("circle-btn-on").siblings().removeClass("circle-btn-on");
+
+
+        });
 
         //当点击左按钮时
         $("#slide-btn1").click(function () {
@@ -64,16 +72,7 @@
             $("#slide-circle-btn li").eq(l).addClass("circle-btn-on").siblings().removeClass("circle-btn-on");
         });
 
-        //鼠标滑动到当前圆圈按钮，相应轮播图出现
-        /* var len=0;
-         for(var i=0;i<circle_btn.length;i++){
-         len++;
-         circle_btn[i].index=i;
-         var this_btn=this;
-         circle_btn[i].hover(circle_btn[this_btn.index].fadeOut(300))
 
-         }
-*/
 
     });
 
