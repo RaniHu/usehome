@@ -50,6 +50,10 @@ li {
 #slide-box #slide-img li{
     float: left;
 }
+#slide-box #slide-img li a{
+    display: block;
+    cursor: pointer;
+}
 
 /*头部导航*/
 .header .nav {
@@ -164,28 +168,24 @@ li {
 }
 
 /*轮播图按钮*/
-.header #slide-btn{
+.header .slide-btn{
     display: block;
     position: absolute;
-    width: 75%;
-    top:250px;
-    left: 170px;
-    height: 270px;
-    text-align: center;
+    top:270px;
     font-size: 100px;
     color: #fffefe;
 }
-#slide-btn #slide-btn1{
-    float: left;
-    padding-top: 30px;
+.slide-btn #slide-btn1{
+    position: absolute;
+    left: 200px;
     cursor: pointer;
 
 
 }
-#slide-btn #slide-btn2{
-    float: right;
-    padding-top: 30px;
+.slide-btn #slide-btn2{
     cursor: pointer;
+    position: absolute;
+    left: 1100px;
 
 }
 .header #slide-circle-btn{
@@ -336,6 +336,7 @@ li {
     color:  #d1d1d1;
     font-family: 'foot-txt';
     letter-spacing:3px;
+    cursor: pointer;
 }
 .contact>div {
     margin: 0 10px;

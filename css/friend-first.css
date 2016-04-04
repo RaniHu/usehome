@@ -213,9 +213,9 @@ li {
     text-align: center;
     display: block;
     width: 240px;
-    height: 295px;
+    height: 430px;
     float: left;
-    margin: 60px;
+    margin: 30px 60px ;
 }
 .main-content .hot-item1{
     float: left;
@@ -223,7 +223,7 @@ li {
 }
 .main-content .hot-item2{
     float: left;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 /*±¦±´Ðã*/
 .main-content .item-show{
