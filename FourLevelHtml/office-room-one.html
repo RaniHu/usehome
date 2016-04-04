@@ -9,29 +9,35 @@
     <style type="text/css">
         #wrapper {
             min-width: 1350px;
-            height: 2490px;
+            height: 1280px;
+            background: url("../img/LifeFeel/bg7.jpg") no-repeat;
+
 
         }
         .header {
             width: 100%;
-            height: 9%;
+            height: 13%;
         }
         /*头部导航*/
         .header .nav {
             position: relative;
-            height: 57%;
-            background-color: rgba(0,0,0,0.8);
+            height: 80%;
 
+        }
+        .user-position{
+            background-color: rgba(208,208,209,0.8);
         }
         /*中间主要内容*/
         .main {
-            width: 100%;
-            height: 84%;
+            height: 79%;
+            padding-bottom: 3px;
         }
-        .main a{
-            display: block;
-            margin: -3px auto;
+        .main .video{
+            position: absolute;
+            top:300px;
+            left: 400px;
         }
+
 
     </style>
 </head>
@@ -76,12 +82,14 @@
 
     <!-- 中间-->
     <div class="main">
-        <video controls="controls">您的浏览器不支持该视频
-            <source src="../img/LifeFeel/clamp.mp4">
-            <source src="../img/LifeFeel/clamp.m4v">
-            <source src="../img/LifeFeel/clamp.ogv">
-            <source src="../img/LifeFeel/clamp.webm">
-        </video>
+        <div class="video">
+            <video controls="controls">您的浏览器不支持该视频
+                <source src="../img/LifeFeel/clamp.mp4">
+                <source src="../img/LifeFeel/clamp.m4v">
+                <source src="../img/LifeFeel/clamp.ogv">
+                <source src="../img/LifeFeel/clamp.webm">
+            </video>
+        </div>
     </div>
 
     <!-- 尾部-->
@@ -93,7 +101,7 @@
                     <div class="foot-logo">
                         <img src="../img/HomePage/foot1.png">
                     </div>
-                    <a href="#" class="foot-title">关于用家</a>
+                    <a href="../html/aboutHome.html" class="foot-title">关于用家</a>
                     <ul class="foot-txt">
                         <li><a href="#">用家的服务</a></li>
                         <li><a href="#">用家的特点</a></li>
@@ -117,7 +125,7 @@
                     <div class="foot-logo">
                         <img src="../img/HomePage/foot3.png">
                     </div>
-                    <a href="#" class="foot-title">联系用家</a>
+                    <a href="../html/contactHome.html" class="foot-title">联系用家</a>
                     <ul class="foot-txt">
                         <li><a href="#">地址:南京市江宁...</a></li>
                         <li><a href="#">邮编:110000</a></li>
