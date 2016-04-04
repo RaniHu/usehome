@@ -17,7 +17,7 @@ li {
 
 #wrapper {
     min-width: 1350px;
-    height: 2800px;
+    height: 3400px;
 }
 
 /*头部*/
@@ -185,7 +185,7 @@ li {
 
 
 
-/*中间主要内容*/
+/*中间*/
 .main {
     width: 100%;
     height: 78%;
@@ -215,6 +215,11 @@ li {
     float: left;
 
 }
+/*手把手教学视频*/
+.video >video{
+    margin: auto 50px;
+}
+/*中间主要内容*/
 .main .main-content {
     text-align: center;
     margin-top: -30px;
