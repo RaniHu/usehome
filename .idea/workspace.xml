@@ -2,82 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01dbbb47-45e1-4a05-bf21-2c8044ce1f21" name="默认的" comment="add img&#10;">
-      <change type="DELETED" beforePath="E:\github\usehome\ThreeLevelHtml\three.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/aboutHome.html" afterPath="$PROJECT_DIR$/html/aboutHome.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bathroom-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bathroom-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bathroom-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bathroom-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/bathroom-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/bathroom-receive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bathroom-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bathroom-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bathroom-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bathroom-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-five.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-five.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/bedroom-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/bedroom-receive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/bedroom-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/bedroom-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/country-eight.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/country-eight.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/country-first.html" afterPath="$PROJECT_DIR$/html/country-first.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/country-five.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/country-five.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/country-four.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/country-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/country-one.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/country-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/country-seven.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/country-seven.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/country-six.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/country-six.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/country-three.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/country-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/country-two.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/country-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/country-two.html" afterPath="$PROJECT_DIR$/html/country-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-eight.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-eight.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-eleven.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-eleven.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/friend-first.html" afterPath="$PROJECT_DIR$/html/friend-first.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-five.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-five.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-four.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-nine.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-nine.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-one.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/friend-second.html" afterPath="$PROJECT_DIR$/html/friend-second.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-seven.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-seven.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-six.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-six.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-ten.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-ten.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-three.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-twelve.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-twelve.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/friend-two.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/friend-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/health.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/health.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/heath-three.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/heath-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/heath-two.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/heath-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-five.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-five.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-four.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-one.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-six.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-six.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-three.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-two.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/home-sense-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/home-sense.html" afterPath="$PROJECT_DIR$/html/home-sense.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/kitchen-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/kitchen-receive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-two-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-two-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/kitchen-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/kitchen-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/life-feel.css" afterPath="$PROJECT_DIR$/css/life-feel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/life-feel.html" afterPath="$PROJECT_DIR$/html/life-feel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/life-home-three.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/life-home-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/life-home-two.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/life-home-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/life-home.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/life-home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/living-room-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/living-room-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/living-room-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/living-room-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/living-room-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/living-room-receive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/living-room-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/living-room-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/living-room-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/living-room-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/mom-three.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/mom-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/mom-two.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/mom-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/mom.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/mom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/office-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/office-receive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/office-room-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/office-room-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/office-room-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/office-room-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/office-room-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/office-room-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/office-room-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/office-room-two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/study-room-four.html" afterPath="$PROJECT_DIR$/FourLevelHtml/study-room-four.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/study-room-one.html" afterPath="$PROJECT_DIR$/FourLevelHtml/study-room-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeLevelHtml/study-room-receive.html" afterPath="$PROJECT_DIR$/ThreeLevelHtml/study-room-receive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/study-room-three.html" afterPath="$PROJECT_DIR$/FourLevelHtml/study-room-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourLevelHtml/study-room-two.html" afterPath="$PROJECT_DIR$/FourLevelHtml/study-room-two.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/HomePage/17.jpg" afterPath="$PROJECT_DIR$/img/HomePage/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/HomePage/18.jpg" afterPath="$PROJECT_DIR$/img/HomePage/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="usehome.iws" />
@@ -109,11 +36,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="life-feel.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="life-feel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/life-feel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59772295">
-              <caret line="78" column="62" selection-start-line="78" selection-start-column="62" selection-end-line="78" selection-end-column="62" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.1">
+              <caret line="184" column="38" selection-start-line="184" selection-start-column="38" selection-end-line="184" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8563734">
+              <caret line="425" column="19" selection-start-line="425" selection-start-column="19" selection-end-line="425" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -122,7 +69,7 @@
       <file leaf-file-name="kitchen-three.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FourLevelHtml/kitchen-three.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.7">
+            <state vertical-scroll-proportion="0.0">
               <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
               <folding />
             </state>
@@ -142,7 +89,7 @@
       <file leaf-file-name="office-room-one.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FourLevelHtml/office-room-one.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.3">
+            <state vertical-scroll-proportion="0.0">
               <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
               <folding />
             </state>
@@ -165,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ThreeLevelHtml/friend-ten.html" />
         <option value="$PROJECT_DIR$/ThreeLevelHtml/friend-three.html" />
         <option value="$PROJECT_DIR$/ThreeLevelHtml/friend-twelve.html" />
         <option value="$PROJECT_DIR$/ThreeLevelHtml/friend-two.html" />
@@ -216,6 +162,7 @@
         <option value="$PROJECT_DIR$/FourLevelHtml/office-room-one.html" />
         <option value="$PROJECT_DIR$/html/life-feel.html" />
         <option value="$PROJECT_DIR$/css/life-feel.css" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -261,8 +208,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,48 +225,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="usehome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="usehome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="usehome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="usehome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="usehome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FourLevelHtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="usehome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="usehome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -517,27 +422,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ThreeLevelHtml/friend-three.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59772295">
-          <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThreeLevelHtml/friend-twelve.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47817838">
-          <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ThreeLevelHtml/friend-two.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9203036">
           <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39848197">
           <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,7 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7571157">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,7 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.87666035">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,7 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7571157">
           <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67741936">
           <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63757116">
           <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.87666035">
           <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47817838">
           <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63757116">
           <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,7 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27893737">
           <caret line="130" column="22" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5180266">
           <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.800759">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5180266">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43833017">
           <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27893737">
           <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5180266">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43833017">
           <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.6337761">
           <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47817838">
           <caret line="126" column="22" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.47817838">
           <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63757116">
           <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63757116">
           <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5180266">
           <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.87666035">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39848197">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5180266">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7571157">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7571157">
           <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47817838">
           <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.59772295">
           <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55787474">
           <caret line="173" column="22" selection-start-line="173" selection-start-column="22" selection-end-line="173" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.79696393">
           <caret line="170" column="22" selection-start-line="170" selection-start-column="22" selection-end-line="170" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.79696393">
           <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67741936">
           <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43833017">
           <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67741936">
           <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43833017">
           <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -841,7 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55787474">
           <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.79696393">
           <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.59772295">
           <caret line="105" column="22" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.91650856">
           <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,7 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.59772295">
           <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7172676">
           <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -895,7 +740,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FourLevelHtml/office-room-one.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.3">
+        <state vertical-scroll-proportion="0.0">
           <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
           <folding />
         </state>
@@ -903,7 +748,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FourLevelHtml/kitchen-three.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.7">
+        <state vertical-scroll-proportion="0.0">
           <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
           <folding />
         </state>
@@ -919,8 +764,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/life-feel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59772295">
-          <caret line="78" column="62" selection-start-line="78" selection-start-column="62" selection-end-line="78" selection-end-column="62" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.1">
+          <caret line="184" column="38" selection-start-line="184" selection-start-column="38" selection-end-line="184" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8563734">
+          <caret line="425" column="19" selection-start-line="425" selection-start-column="19" selection-end-line="425" selection-end-column="19" />
           <folding />
         </state>
       </provider>
