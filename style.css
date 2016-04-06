@@ -17,17 +17,19 @@ li {
 
 #wrapper {
     min-width: 1350px;
-    height: 2300px;
-    /*width:1350px;*/
-    /*height: 3580px;*/
+    height: 2312px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*头部*/
 .header {
+    position: relative;
     width: 100%;
     height: 612px;
     top:0;
     left: 0;
+
 }
 /*轮播背景图外层*/
 .header #slide-box{
@@ -36,6 +38,8 @@ li {
     height: 612px;
     overflow: hidden;
     left: 0;
+    margin: 0 auto;
+
 }
 /*轮播背景图*/
 #slide-box #slide-img{
@@ -52,36 +56,82 @@ li {
     display: block;
     cursor: pointer;
 }
+/*轮播图按钮*/
+.header .slide-btn{
+    position: relative;
+    width: 150px;
+    height: 100px;
+    top:50%;
+    margin-top: -40px;
+    font-size: 100px;
+    color: #fffefe;
+    cursor: pointer;
+    font-family: '宋体';
+}
+.slide-btn #slide-btn1{
+    position: absolute;
+    left: 240px;
 
-/*头部导航*/
+
+}
+.slide-btn #slide-btn2{
+    position: absolute;
+    left: 1100px;
+
+}
+/*圆圈按钮*/
+.header #slide-circle-btn{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    bottom :50px;
+    text-align: center;
+    margin-left: 47%;
+}
+.header #slide-circle-btn>li{
+    float: left;
+    width: 12px;
+    height: 12px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+}
+#slide-circle-btn .circle-btn-on{
+    background-color: white;
+}
+
+
+
+/*头部整体导航*/
 .header .nav {
     position: absolute;
     top:0;
     left: 0;
     width: 100%;
-    height: 131px;
+    height: 130px;
     background: rgba(0,0,0,0.7);
-    /*background-color: #4c4944;*/
 }
 
 .nav .logo {
     text-align: center;
-
-
 }
 .nav .logo img{
     margin-top: 15px;
 }
-
-.nav-bar{
+/*导航栏*/
+.nav-wrapper{
+    width: 1280px;
+    height: 50px;
+    margin: 0 auto;
 }
 /*文字logo*/
-.nav-bar img {
+.menu-bar img {
     height: 50px;
     width: 100px;
     display: block;
     float: left;
-    margin-left: 180px;
+    margin-left: 138px;
 
 }
 
@@ -99,14 +149,14 @@ li {
 }
 
 
-/*主导航栏*/
+/*主菜单栏*/
 #nav-main {
     float: left;
     margin-top: 18px;
     margin-left: 80px;
 }
 
-.nav-bar #nav-main li {
+.menu-bar #nav-main li {
     float: left;
     display: block;
     width: 96px;
@@ -153,7 +203,7 @@ li {
     top:130px;
     padding-left: 10px;
     display: block;
-    width: 1340px;
+    width: 100%;
     height: 28px;
     border-bottom: 1px solid black;
     font-size: 22px;
@@ -165,62 +215,24 @@ li {
     line-height: 28px;
 }
 
-/*轮播图按钮*/
-.header .slide-btn{
-    display: block;
-    position: absolute;
-    top:270px;
-    font-size: 100px;
-    color: #fffefe;
-}
-.slide-btn #slide-btn1{
-    position: absolute;
-    left: 200px;
-    cursor: pointer;
-
-
-}
-.slide-btn #slide-btn2{
-    cursor: pointer;
-    position: absolute;
-    left: 1100px;
-
-}
-.header #slide-circle-btn{
-    position: absolute;
-    width: 100px;
-    height: 20px;
-    bottom :50px;
-    text-align: center;
-    margin-left: 47%;
-}
-.header #slide-circle-btn>li{
-    float: left;
-    width: 12px;
-    height: 12px;
-    border: 1px solid white;
-    border-radius: 50%;
-    margin: 0 5px;
-    cursor: pointer;
-}
-#slide-circle-btn .circle-btn-on{
-    background-color: white;
-}
 
 
 
 /*中间主要内容*/
 .main {
     width: 100%;
+    height: 1500px;
+
 }
 /*每日精选*/
 .main .select-day{
+    width: 1350px;
     height: 760px;
-    text-align: center;
+    margin: 0 auto;
 }
-.main .select-day .title{
+.main .title{
     height: 200px;
-    margin-top: 30px;
+    text-align: center;
 }
 /*每日精选左侧*/
 .select-day .left{
@@ -254,15 +266,14 @@ li {
 }
 /*好物分享*/
 .main .share{
-    text-align: center;
-    margin-top: 10px;
+    width: 1350px;
+    margin: 0 auto;
 }
 .share .detail-item{
     text-align: center;
     height: 500px;
     border-bottom: 2px solid black;
     margin-top: 25px;
-    /*margin-left: 95px;*/
     padding-left: 85px;
 }
 .share .detail-item img{
@@ -300,17 +311,17 @@ li {
 
 }
 .footer .foot-content{
-    width: 100%;
-    height: 100%;
+    width: 1200px;
+    height: 200px;
     margin: 0 auto;
 }
 /*联系我们*/
 .foot-content .contact{
     float: left;
-    width: 55%;
+    width: 70%;
     height: 80%;
     padding-top: 15px;
-    margin-left: 130px;
+    margin-left: 30px;
 
 }
 /*底部logo*/

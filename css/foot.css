@@ -28,15 +28,25 @@ li {
     height: 32%;
     /*background: url("img/HomePage/1.jpg") no-repeat;*/
 }
+.bg-wrapper{
+    position: relative;
+    width: 1350px;
+    height: 612px;
+    margin: 0 auto;
+}
 .header .bg-img{
     position: absolute;
-    z-index: -1;
+
 }
+
 
 /*头部导航*/
 .header .nav {
-    position: relative;
-    height: 22%;
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 130px;
     background-color: rgba(0,0,0,0.7);
 }
 
@@ -49,15 +59,19 @@ li {
     margin-top: 15px;
 }
 
-.nav-bar{
+/*导航栏*/
+.nav-wrapper{
+    width: 1280px;
+    height: 50px;
+    margin: 0 auto;
 }
 /*文字logo*/
-.nav-bar img {
+.menu-bar img {
     height: 50px;
     width: 100px;
     display: block;
     float: left;
-    margin-left: 180px;
+    margin-left: 138px;
 
 }
 
@@ -83,7 +97,7 @@ li {
     margin-left: 80px;
 }
 
-.nav-bar #nav-main li {
+.menu-bar #nav-main li {
     float: left;
     display: block;
     width: 96px;
@@ -125,9 +139,12 @@ li {
 }
 /*用户位置*/
 .header .user-position {
-    position: relative;
+    position: absolute;
+    left: 0;
+    top:130px;
     padding-left: 10px;
     display: block;
+    width: 100%;
     height: 28px;
     border-bottom: 1px solid black;
     font-size: 22px;
@@ -172,8 +189,8 @@ li {
 
 }
 .footer .foot-content{
-    width: 100%;
-    height: 100%;
+    width: 1350px;
+    height: 200px;
     margin: 0 auto;
 }
 /*联系我们*/
