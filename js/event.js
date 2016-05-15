@@ -40,30 +40,21 @@
         $("#slide-circle-btn li").hover(function () {
             var index = $(this).index();     //获取当前元素的索引值
             l=index;                         //使当前索引值与轮播图相同
-            $("#slide-img").stop().animate({left: -index * 1350}, 260);
+            $("#slide-img").stop().animate({left: -index * 1350}, 500);
             $(this).addClass("circle-btn-on").siblings().removeClass("circle-btn-on");
 
         });
 
         //自动轮播
-        var time=setInterval(move_r,2000);
+        var time=setInterval(move_r,3500);
 
         //鼠标滑到图片时，关定时器
         $("ul#slide-img").hover(function () {
             clearInterval(time);
         },function(){
-            time=setInterval(move_r,2000);
+            time=setInterval(move_r,3500);
         });
-        $(".slide-btn").hover(function () {
-            clearInterval(time);
-        },function(){
-            time=setInterval(move_r,2000);
-        });
-        $("#slide-circle-btn").hover(function () {
-            clearInterval(time);
-        },function(){
-            time=setInterval(move_r,2000);
-        });
+
 
         //当点击左按钮时
         $("#slide-btn1").click(function () {
@@ -82,7 +73,7 @@
                 $("#slide-img").css({left: -(len - 1) * 1350});
                 l = len - 2;
             }
-            $("ul#slide-img").stop().animate({left: -l * 1350}, 1000);
+            $("ul#slide-img").stop().animate({left: -l * 1350}, 800);
 
             //给当前的li标签添加类名，其他兄弟元素移除类名
             $("ul#slide-circle-btn li").eq(l).addClass("circle-btn-on").siblings().removeClass("circle-btn-on");
